@@ -1,6 +1,7 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://mizzcode.io)
 <h1 align="center">Hi 👋, I'm Shahriar Fardous</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar2205&label=Profile%20views&color=0e75b6&style=flat" alt="rakib-siddiki" /> </p>
 
@@ -8,7 +9,9 @@
 
 - 👨‍💻 All of my projects are available at ([(https://my-portfolio-shahriar-ferdous.vercel.app/] )
 
-- 💬 Ask me about **Redux,Node js,MongoDB,Express Js,Next js,Prisma**
+- 💬 Ask me about **Redux,Node js,MongoDB,Express Js,Next js, Html Css, Bootstrap ,Tailwind Css ,React , Strapi, Javascript
+
+**
 
 - 📫 How to reach me **mdshahriarfardous407@gmail.com**
 
